@@ -1,0 +1,15 @@
+{
+  "name": "syntax-template-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "The basic, fine, and well supported syntax template ever.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/alxtz/syntax-template-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
