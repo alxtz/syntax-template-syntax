@@ -1,41 +1,18 @@
-// Language syntax highlighting
-
 .syntax--comment {
   color: @gray;
-  // opacity: 0.5;
   font-style: italic;
-  font-weight: 600;
-  filter: brightness(50%);
-
   .syntax--markup.syntax--link {
     color: @gray;
   }
   .syntax--punctuation {
     opacity: 1;
-    filter: brightness(100%);
-  }
-  .syntax--storage {
-    filter: brightness(150%);
   }
 }
-
-.syntax--comma {
-  opacity: 0.2;
-}
-
-// .syntax--brace {
-//   font-family: Monaco !important;
-// }
-// .syntax--bracket {
-//   font-family: Monaco !important;
-// }
 
 .syntax--entity {
-
   &.syntax--name.syntax--type {
     color: @yellow;
   }
-
   &.syntax--other.syntax--inherited-class {
     color: @green;
   }
