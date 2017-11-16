@@ -1,7 +1,7 @@
 {
   "name": "syntax-template-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The basic, fine, and well supported syntax template ever.",
   "keywords": [
     "syntax",
